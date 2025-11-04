@@ -1,8 +1,8 @@
-#Bitcoin Price Prediction Using Machine Learning
+Bitcoin Price Prediction Using Machine Learning
 
 Prediksi harga Bitcoin berdasarkan data historis dan model Machine Learning (Random Forest, Linear Regression, dan LSTM).
 
-##Deskripsi
+Deskripsi
 Aplikasi ini memprediksi harga Bitcoin berikutnya berdasarkan data:
 - Open
 - High
@@ -12,12 +12,12 @@ Aplikasi ini memprediksi harga Bitcoin berikutnya berdasarkan data:
 
 Dibangun menggunakan **Python**, **TensorFlow**, dan **Streamlit**.
 
-##Model yang Digunakan
+Model yang Digunakan
 - Random Forest
 - Linear Regression
 - LSTM (Deep Learning)
 
-##Cara Menjalankan Aplikasi
+Cara Menjalankan Aplikasi
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
