@@ -1,0 +1,15 @@
+name: prediksi-btc
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - streamlit==1.26.0
+      - pandas==1.5.3
+      - numpy==1.23.5
+      - scikit-learn==1.2.2
+      - matplotlib==3.7.1
+      - tensorflow-cpu==2.13.0
+      - h5py==3.8.0
+      - protobuf==3.20.3
+      - joblib==1.2.0
+      - typing-extensions==4.5.0
