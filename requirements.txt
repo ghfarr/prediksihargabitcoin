@@ -6,3 +6,5 @@ matplotlib==3.8.2
 tensorflow==2.13.0
 protobuf==4.25.3
 joblib==1.2.0
+h5py==3.8.0
+typing-extensions==4.5.0
